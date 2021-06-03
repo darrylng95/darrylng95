@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darrylng95, you can call me darryl or zi liang
+- 👋 Hi, I’m @darrylng95, you can call me darryl or zi liang and I live in Singapore. I graduated from NUS Information System in January 2021. 
 - 👀 I’m interested in new technology and love to try them out through my so called "pet" projects. I am a full time business analyst 
 and part time coder that codes for fun
 - 🌱 I’m currently learning golang and looking to see how I can develop a full stack mobile application with it. 
